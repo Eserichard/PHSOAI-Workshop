@@ -1,0 +1,3 @@
+outs:
+- md5: cde4929d5a485f9f1a35f8453f7a0d3e
+  path: book_tags.csv

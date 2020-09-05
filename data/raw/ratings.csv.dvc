@@ -1,0 +1,3 @@
+outs:
+- md5: d9f6e46055505c892180824e64b2234a
+  path: ratings.csv
